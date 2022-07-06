@@ -142,7 +142,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "ApiCalls_1_Api1",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -150,7 +149,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "ApiCalls_1_get_data",
               "name": "get_data",
               "confirmBeforeExecute": false,
               "pluginType": "API",
